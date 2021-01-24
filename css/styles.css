@@ -62,3 +62,34 @@ body{
     color: #8f8f8f;
     /* font-family: 'Montserrat-Light'; */
 }
+
+/* testimonials section start */
+#testimonials {
+    background-color: #ef8172;
+    text-align: center;
+
+    color: #fff;
+}
+
+.testimonials-h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonials-image {
+    width: 14%;
+    border-radius: 100%;
+}
+.carousel-item {
+        padding: 7% 15%;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 20px;
+}
