@@ -127,4 +127,25 @@ body{
 
 .cta-div{
     background-color: #ff4c68;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+
+/* footer */
+#footer{
+    background-color: #fff;
+}
+
+.footer-div{
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.social-icon {
+    margin: 20px 10px;    
 }
